@@ -113,4 +113,4 @@ $productosRecientes = $stmt->fetchAll();
 </div>
 
 </body>
-</html>
+</html> 
